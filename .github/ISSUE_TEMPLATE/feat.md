@@ -1,5 +1,5 @@
 ---
-name: [FEAT]
+name: add feature development
 about: 기능 개발
 title: '[FEAT] 기능 개발'
 labels: feat
